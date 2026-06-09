@@ -56,19 +56,21 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ---
 
-## 💻 Desarrollo Web & Programación
+## 💻 Desarrollo Web 
 
 ### Sitio Comercial - Joyería Veon
 * **Tecnologías:** React, HTML5, CSS3, JavaScript
 * **Descripción:** Aplicación web Full Stack para comercio electrónico enfocada en la modularidad de componentes y diseño responsivo.
 * **Mecánica Destacada:** Implementación de persistencia de datos local para mantener las configuraciones de usuario (como el cambio de idioma y modo claro/oscuro).
 
+---
+
+## 💻 Otros Proyectos
+
 ### Calculadora de IMC
 * **Plataforma:** Android Studio
 * **Lenguaje:** Kotlin
 * **Descripción:** Aplicación móvil diseñada para el cálculo del Índice de Masa Corporal con una interfaz limpia y adaptativa.
-
----
 
 ### Diseño y Simulación de Redes LAN/WAN
 * **Herramientas:** Cisco Packet Tracer
