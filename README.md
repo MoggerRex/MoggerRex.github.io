@@ -19,7 +19,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 * **Motor gráfico:** Unreal Engine 5
 * **Lógica interna:** Blueprints
-* **Descripción:** Proyecto centrado en el diseño de interacciones fluidas y mecánicas de juego en entornos de realidad virtual y 3D utilizando el sistema de scripting visual.
+* **Descripción:** Proyecto centrado en el diseño de interacciones fluidas y mecánicas de juego en entornos de realidad virtual y 3D utilizando el sistema de scripting visual, con mecanicas de dialogos de texto con npc´s, entrega de objetos (cartas) y puzzles simples.
 
 ---
 
