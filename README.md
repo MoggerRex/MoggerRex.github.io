@@ -12,9 +12,9 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Lenguaje utilizado:** C#
 * **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) para computadoras y dispositivos moviles, con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
 * **Mecánica Destacada:** Implementación de Inteligencia Artificial mediante **NavMesh** para la navegación autónoma de los enemigos en el mapa, giroscopio para mover la camara con el celular.
+<img width="310" height="170" alt="Alien Massacre GIF" src="https://github.com/user-attachments/assets/27c74054-bb8b-4132-95fe-565cc7fd6ab1" />
 <img width="310" height="170" alt="Menu" src="https://github.com/user-attachments/assets/1dfef6a1-6f86-4867-ace0-02c545937b91" />
 <img width="310" height="170" alt="Menu Arma" src="https://github.com/user-attachments/assets/f4230173-09f4-4288-adfb-47911594c154" />
-<img width="310" height="170" alt="Alien Massacre GIF" src="https://github.com/user-attachments/assets/27c74054-bb8b-4132-95fe-565cc7fd6ab1" />
 
 ### "Briefheim: Eirenfall" - *2026*
 ![Unreal Engine 5](https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp; ![Blueprints](https://img.shields.io/badge/blueprints-%230052FF.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -23,9 +23,9 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Lógica interna:** Blueprints
 * **Descripción:** Proyecto centrado en el diseño de interacciones fluidas y mecánicas de juego en entornos de realidad virtual y 3D con graficos realistas, utilizando el sistema de scripting visual, con mecanicas de dialogos de texto con npc´s, entrega de objetos (cartas) y puzzles simples.
 * **Mecánica Destacada:** Optimización en todos el mapa, aumentando la tasa de fps y reduciendo el peso del juego.
-<img width="310" height="170" alt="WhatsApp Image 2026-05-22 at 8 36 10 PM" src="https://github.com/user-attachments/assets/a5d1cb31-5cba-47d2-921b-480618013f12" />
 <img width="310" height="170" alt="Gameplay" src="https://github.com/user-attachments/assets/c75eecd7-a25b-418a-9342-51c082edadc6" />
 <img width="310" height="170" alt="VideoZonasMapa" src="https://github.com/user-attachments/assets/e385ff7d-110a-4c3a-b495-dd339a46bfc3" />
+<img width="310" height="170" alt="WhatsApp Image 2026-05-22 at 8 36 10 PM" src="https://github.com/user-attachments/assets/a5d1cb31-5cba-47d2-921b-480618013f12" />
 
 ### "PinPonPumYume" - *2026*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
