@@ -50,6 +50,8 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
 * **Mecánica Destacada:** Diseño de haptico para interacción del mundo real con el juego, Whac-a-Mole Interactivo (Hardware + Software)
+<img width="310" height="170" alt="Gameplay Gif" src="https://github.com/user-attachments/assets/c91f4f86-f1e4-4f9e-acba-91e3c78e8f41" />
+<img width="310" height="170" alt="Menu Inicial" src="https://github.com/user-attachments/assets/147807ad-252b-486c-ad6c-b8ecb4269c43" />
 
 ### "Armandillo Y Las Reliquias Del Azúcar" - *2026*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
