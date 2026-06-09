@@ -29,7 +29,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ### "PinPonPumYume" - *2026*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-* **Motor gráfico:** Unity
+* **Motor gráfico:** Unity (3D)
 * **Lenguaje utilizado:** C#
 * **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
@@ -37,19 +37,19 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ### "Armandillo Y Las Reliquias Del Azúcar" - *2026*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
-* **Motor gráfico:** Unity
+* **Motor gráfico:** Unity (3D)
 * **Lenguaje utilizado:** C#
 * **Tecnologías:** Arduino, Unity, Sensores IR
-* **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
+* **Descripción:** Juego en 3D con mecanica por turnos, continuando la historia de su precuela "Azucaris" doonde tendras que entrar a la mansión de Cucarachin y detenerlo junto con sus secuaces ratas.
 * **Mecánica Destacada:** Mundo en 3D con mecanica de combate por turnos y uso de objetos y estados.
 
 ### "Azucaris" - *2025*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
-* **Motor gráfico:** Unity
+* **Motor gráfico:** Unity (2D)
 * **Lenguaje utilizado:** C#
 * **Tecnologías:** Arduino, Unity, Sensores IR
-* **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
-* **Mecánica Destacada:** Mundo en 3D con mecanica de combate por turnos y uso de objetos y estados.
+* **Descripción:** Plataformero con mecanicas de ritmo, ambientado en un mundo magico de azucar con un protagonista armadillo llamado Armandillo, quien necesita recuperar su valioso cereal de el villano Cucarachin.
+* **Mecánica Destacada:** Combinación de plataformero clasico con mecanica de ritmo.
 
 ---
 
