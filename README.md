@@ -32,6 +32,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 Whac-a-Mole Interactivo (Hardware + Software)
 * **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
+* **Mecánica Destacada:** Diseño de haptico para interaccion del mundo real con el juego, Whac-a-Mole Interactivo (Hardware + Software)
 
 
 ---
