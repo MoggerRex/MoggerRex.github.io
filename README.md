@@ -8,7 +8,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ### "Alien Massacre 2077" - *2026*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-* **Motor gráfico:** Unity
+* **Motor gráfico:** Unity (3D)
 * **Lenguaje utilizado:** C#
 * **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) para computadoras y dispositivos moviles, con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
 * **Mecánica Destacada:** Implementación de Inteligencia Artificial mediante **NavMesh** para la navegación autónoma de los enemigos en el mapa, giroscopio para mover la camara con el celular.
