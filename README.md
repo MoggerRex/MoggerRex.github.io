@@ -70,12 +70,6 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ---
 
-## 🛠️ Infraestructura e Integración Hardware
-
-### Whac-a-Mole Interactivo (Hardware + Software)
-* **Tecnologías:** Arduino, Unity, Sensores IR
-* **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
-
 ### Diseño y Simulación de Redes LAN/WAN
 * **Herramientas:** Cisco Packet Tracer
 * **Descripción:** Simulación de infraestructuras de red de alta complejidad utilizando topologías de anillo, estrella y bus. Configuración de enrutamiento estático y optimización de direccionamiento mediante subneteo de Clases B y C.
@@ -84,6 +78,6 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ## 🤝 Conecta conmigo
 
-* **Correo institucional/profesional:** leo.olivares.garza@gmail.com
-* **Instagram:** [@lic.rex](https://www.instagram.com/lic.rex/)
+* **Correo profesional:** leo.olivares.garza@gmail.com
 * **Currículum Vitae:** [Ver mi CV en línea](https://canva.link/5zxtiiqdl1uqf7t)
+* **Perfil GitHub:** https://github.com/MoggerRex/MoggerRex/blob/main/README.md
