@@ -94,5 +94,5 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 ## 🤝 Conecta conmigo
 
 * **Correo profesional:** leo.olivares.garza@gmail.com
-* **Currículum Vitae:** [Ver mi CV en línea](https://canva.link/5zxtiiqdl1uqf7t)
-* **Perfil GitHub:** https://github.com/MoggerRex/MoggerRex/blob/main/README.md
+* **Currículum Vitae:** [CV Leonardo Olivares](https://canva.link/5zxtiiqdl1uqf7t)
+* **Perfil GitHub:** https://github.com/MoggerRex
