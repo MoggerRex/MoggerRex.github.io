@@ -11,7 +11,8 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Lenguaje utilizado:** C#
 * **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
 * **Mecánica Destacada:** Implementación de Inteligencia Artificial mediante **NavMesh** para la navegación autónoma de los enemigos en el mapa.
-* **Material Visual:** *(Aquí puedes arrastrar y soltar un GIF o captura de tu juego directamente en el editor de GitHub para que se guarde la imagen)*
+<img width="300" height="150" alt="Menu" src="https://github.com/user-attachments/assets/1dfef6a1-6f86-4867-ace0-02c545937b91" />
+<img width="300" height="150" alt="Menu Arma" src="https://github.com/user-attachments/assets/f4230173-09f4-4288-adfb-47911594c154" />
 
 ### Sistema de Recolección de Cartas (UE5)
 * **Motor gráfico:** Unreal Engine 5
