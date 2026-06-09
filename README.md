@@ -6,10 +6,10 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ## 🛸 Proyectos de Videojuegos & Entornos Virtuales
 
-### Alien FPS Demo
+### Alien Massacre 2077
 * **Motor gráfico:** Unity
 * **Lenguaje utilizado:** C#
-* **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) con temática alienígena. Cuenta con una interfaz dinámica de misiones y barras de estado.
+* **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
 * **Mecánica Destacada:** Implementación de Inteligencia Artificial mediante **NavMesh** para la navegación autónoma de los enemigos en el mapa.
 * **Material Visual:** *(Aquí puedes arrastrar y soltar un GIF o captura de tu juego directamente en el editor de GitHub para que se guarde la imagen)*
 
