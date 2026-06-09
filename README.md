@@ -50,6 +50,9 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Plataformero con mecanicas de ritmo, ambientado en un mundo magico de azucar con un protagonista armadillo llamado Armandillo, quien necesita recuperar su valioso cereal de el villano Cucarachin.
 * **Mecánica Destacada:** Combinación de plataformero clasico con mecanica de ritmo.
+<img width="310" height="170" alt="Plataformeo Gif" src="https://github.com/user-attachments/assets/3b781a86-f5eb-4a32-8ca9-2caa42df8a72" />
+<img width="310" height="170" alt="Ritmo Gif" src="https://github.com/user-attachments/assets/7b774c4e-52b6-4c5b-a958-8e17ec2ec32d" />
+
 
 ---
 
