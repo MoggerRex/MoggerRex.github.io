@@ -66,6 +66,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Tecnologías:** React, HTML5, CSS3, JavaScript
 * **Descripción:** Aplicación web Full Stack para comercio electrónico enfocada en la modularidad de componentes y diseño responsivo.
 * **Mecánica Destacada:** Implementación de persistencia de datos local para mantener las configuraciones de usuario (como el cambio de idioma y modo claro/oscuro).
+<img width="310" height="170" alt="Video prueba Veon" src="https://github.com/user-attachments/assets/c654cd62-674b-4950-9453-437ef6b17626" />
 <img width="310" height="170" alt="Captura de pantalla 2026-05-22 204954" src="https://github.com/user-attachments/assets/8dc1bae1-8f59-405f-81fe-792812c2759b" />
 <img width="310" height="170" alt="Captura de pantalla 2026-05-22 205915" src="https://github.com/user-attachments/assets/57b19f1f-f21b-45ba-b55c-53aefc17ff38" />
 <img width="310" height="170" alt="Captura de pantalla 2026-05-22 210005" src="https://github.com/user-attachments/assets/e81ca3a6-0b15-494c-a5dc-78b277b37743" />
