@@ -6,7 +6,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ## 🛸 Proyectos de Videojuegos & Entornos Virtuales
 
-### Alien Massacre 2077
+### Alien Massacre 2077 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 * **Motor gráfico:** Unity
 * **Lenguaje utilizado:** C#
 * **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
