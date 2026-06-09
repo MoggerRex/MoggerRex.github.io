@@ -27,6 +27,11 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 <img width="310" height="170" alt="Gameplay" src="https://github.com/user-attachments/assets/c75eecd7-a25b-418a-9342-51c082edadc6" />
 <img width="310" height="170" alt="VideoZonasMapa" src="https://github.com/user-attachments/assets/e385ff7d-110a-4c3a-b495-dd339a46bfc3" />
 
+### PinPonPumYume
+Whac-a-Mole Interactivo (Hardware + Software)
+* **Tecnologías:** Arduino, Unity, Sensores IR
+* **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
+
 
 ---
 
