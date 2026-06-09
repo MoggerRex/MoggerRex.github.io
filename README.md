@@ -7,8 +7,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 ## 💻 Desarrollo Web 
 
 ### "Veon" - *2026*
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 * **Empresa:** Neutronic Solutions
 * **Tecnologías:** React, HTML5, CSS3, JavaScript
@@ -24,7 +23,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 ## 🛸 Proyectos de Videojuegos Y Entornos Virtuales
 
 ### "Alien Massacre 2077" - *2026*
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 * **Motor gráfico:** Unity (3D)
 * **Lenguaje utilizado:** C#
 * **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) para computadoras y dispositivos moviles, con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
@@ -34,7 +33,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 <img width="310" height="170" alt="Menu Arma" src="https://github.com/user-attachments/assets/f4230173-09f4-4288-adfb-47911594c154" />
 
 ### "Briefheim: Eirenfall" - *2026*
-![Unreal Engine 5](https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp; ![Blueprints](https://img.shields.io/badge/blueprints-%230052FF.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)![Blueprints](https://img.shields.io/badge/blueprints-%230052FF.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 * **Motor gráfico:** Unreal Engine 5
 * **Lógica interna:** Blueprints
@@ -45,7 +44,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 <img width="310" height="170" alt="WhatsApp Image 2026-05-22 at 8 36 10 PM" src="https://github.com/user-attachments/assets/a5d1cb31-5cba-47d2-921b-480618013f12" />
 
 ### "PinPonPumYume" - *2026*
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 * **Motor gráfico:** Unity (3D)
 * **Lenguaje utilizado:** C#
 * **Tecnologías:** Arduino, Unity, Sensores IR
@@ -53,7 +52,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Mecánica Destacada:** Diseño de haptico para interacción del mundo real con el juego, Whac-a-Mole Interactivo (Hardware + Software)
 
 ### "Armandillo Y Las Reliquias Del Azúcar" - *2026*
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
 * **Motor gráfico:** Unity (3D)
 * **Lenguaje utilizado:** C#
 * **Tecnologías:** Arduino, Unity, Sensores IR
@@ -61,7 +60,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Mecánica Destacada:** Mundo en 3D con mecanica de combate por turnos y uso de objetos y estados.
 
 ### "Azucaris" - *2025*
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
 * **Motor gráfico:** Unity (2D)
 * **Lenguaje utilizado:** C#
 * **Tecnologías:** Arduino, Unity, Sensores IR
@@ -75,11 +74,13 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 ## 💻 Otros Proyectos
 
 ### Calculadora de IMC
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 * **Plataforma:** Android Studio
 * **Lenguaje:** Kotlin
 * **Descripción:** Aplicación móvil diseñada para el cálculo del Índice de Masa Corporal con una interfaz limpia y adaptativa.
 
 ### Diseño y Simulación de Redes LAN/WAN
+![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
 * **Herramientas:** Cisco Packet Tracer
 * **Descripción:** Simulación de infraestructuras de red de alta complejidad utilizando topologías de anillo, estrella y bus. Configuración de enrutamiento estático y optimización de direccionamiento mediante subneteo de Clases B y C.
 
