@@ -58,7 +58,9 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ## 💻 Desarrollo Web 
 
-### Sitio Comercial - Joyería Veon
+### "Veon" - *2026*
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+* **Empresa:** Neutronic Solutions
 * **Tecnologías:** React, HTML5, CSS3, JavaScript
 * **Descripción:** Aplicación web Full Stack para comercio electrónico enfocada en la modularidad de componentes y diseño responsivo.
 * **Mecánica Destacada:** Implementación de persistencia de datos local para mantener las configuraciones de usuario (como el cambio de idioma y modo claro/oscuro).
