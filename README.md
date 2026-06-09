@@ -10,7 +10,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Motor gráfico:** Unity
 * **Lenguaje utilizado:** C#
 * **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) para computadoras y dispositivos moviles, con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
-* **Mecánica Destacada:** Implementación de Inteligencia Artificial mediante **NavMesh** para la navegación autónoma de los enemigos en el mapa. Giroscopio.
+* **Mecánica Destacada:** Implementación de Inteligencia Artificial mediante **NavMesh** para la navegación autónoma de los enemigos en el mapa, giroscopio para mover la camara con el celular.
 <img width="300" height="150" alt="Menu" src="https://github.com/user-attachments/assets/1dfef6a1-6f86-4867-ace0-02c545937b91" />
 <img width="300" height="150" alt="Menu Arma" src="https://github.com/user-attachments/assets/f4230173-09f4-4288-adfb-47911594c154" />
 <img width="300" height="150" alt="Alien Massacre GIF" src="https://github.com/user-attachments/assets/27c74054-bb8b-4132-95fe-565cc7fd6ab1" />
