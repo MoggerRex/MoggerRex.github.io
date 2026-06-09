@@ -21,6 +21,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Lógica interna:** Blueprints
 * **Descripción:** Proyecto centrado en el diseño de interacciones fluidas y mecánicas de juego en entornos de realidad virtual y 3D utilizando el sistema de scripting visual, con mecanicas de dialogos de texto con npc´s, entrega de objetos (cartas) y puzzles simples.
 * **Mecánica Destacada:** Optimización en todos el mapa, aumentando la tasa de fps y reduciendo el peso del juego.
+<img width="300" height="150" alt="WhatsApp Image 2026-05-22 at 8 36 10 PM" src="https://github.com/user-attachments/assets/a5d1cb31-5cba-47d2-921b-480618013f12" />
 
 ---
 
