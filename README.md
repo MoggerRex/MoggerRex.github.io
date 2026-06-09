@@ -76,13 +76,13 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ## 💻 Otros Proyectos
 
-### Calculadora de IMC
+### "Calculadora de IMC" - *2025*
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 * **Plataforma:** Android Studio
 * **Lenguaje:** Kotlin
 * **Descripción:** Aplicación móvil diseñada para el cálculo del Índice de Masa Corporal con una interfaz limpia y adaptativa.
 
-### Diseño y Simulación de Redes LAN/WAN
+### "Diseño y Simulación de Redes LAN/WAN" - *2026*
 ![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
 * **Herramientas:** Cisco Packet Tracer
 * **Descripción:** Simulación de infraestructuras de red de alta complejidad utilizando topologías de anillo, estrella y bus. Configuración de enrutamiento estático y optimización de direccionamiento mediante subneteo de Clases B y C.
