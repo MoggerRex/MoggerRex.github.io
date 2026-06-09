@@ -6,15 +6,17 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ## 🛸 Proyectos de Videojuegos & Entornos Virtuales
 
-### Alien Massacre 2077 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+### Alien Massacre 2077 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 * **Motor gráfico:** Unity
 * **Lenguaje utilizado:** C#
 * **Descripción:** Demo de un videojuego de disparos en primera persona (FPS) con temática alienígena en pixelart. Cuenta con una interfaz dinámica de rondas y barras de vida, puntos y opciones para mejorar estadisticas del judador.
 * **Mecánica Destacada:** Implementación de Inteligencia Artificial mediante **NavMesh** para la navegación autónoma de los enemigos en el mapa.
 <img width="300" height="150" alt="Menu" src="https://github.com/user-attachments/assets/1dfef6a1-6f86-4867-ace0-02c545937b91" />
 <img width="300" height="150" alt="Menu Arma" src="https://github.com/user-attachments/assets/f4230173-09f4-4288-adfb-47911594c154" />
+<img width="300" height="150" alt="Alien Massacre GIF" src="https://github.com/user-attachments/assets/27c74054-bb8b-4132-95fe-565cc7fd6ab1" />
 
-### Sistema de Recolección de Cartas (UE5)
+### Briefheim: Eirenfall ![Unreal Engine 5](https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp; ![Blueprints](https://img.shields.io/badge/blueprints-%230052FF.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 * **Motor gráfico:** Unreal Engine 5
 * **Lógica interna:** Blueprints
 * **Descripción:** Proyecto centrado en el diseño de interacciones fluidas y mecánicas de juego en entornos de realidad virtual y 3D utilizando el sistema de scripting visual.
