@@ -4,7 +4,24 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 
 ---
 
-## 🛸 Proyectos de Videojuegos & Entornos Virtuales
+## 💻 Desarrollo Web 
+
+### "Veon" - *2026*
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+
+* **Empresa:** Neutronic Solutions
+* **Tecnologías:** React, HTML5, CSS3, JavaScript
+* **Descripción:** Aplicación web Full Stack para comercio electrónico para una joyería, enfocada en la modularidad de componentes y diseño responsivo.
+* **Mecánica Destacada:** Implementación de persistencia de datos local para mantener las configuraciones de usuario (como el cambio de idioma y modo claro/oscuro).
+<img width="310" height="170" alt="Video prueba Veon" src="https://github.com/user-attachments/assets/c654cd62-674b-4950-9453-437ef6b17626" />
+<img width="310" height="170" alt="Captura de pantalla 2026-05-22 204954" src="https://github.com/user-attachments/assets/8dc1bae1-8f59-405f-81fe-792812c2759b" />
+<img width="310" height="170" alt="Captura de pantalla 2026-05-22 205915" src="https://github.com/user-attachments/assets/57b19f1f-f21b-45ba-b55c-53aefc17ff38" />
+<img width="310" height="170" alt="Captura de pantalla 2026-05-22 210005" src="https://github.com/user-attachments/assets/e81ca3a6-0b15-494c-a5dc-78b277b37743" />
+
+---
+
+## 🛸 Proyectos de Videojuegos Y Entornos Virtuales
 
 ### "Alien Massacre 2077" - *2026*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
@@ -52,26 +69,6 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Mecánica Destacada:** Combinación de plataformero clasico con mecanica de ritmo.
 <img width="310" height="170" alt="Plataformeo Gif" src="https://github.com/user-attachments/assets/3b781a86-f5eb-4a32-8ca9-2caa42df8a72" />
 <img width="310" height="170" alt="Ritmo Gif" src="https://github.com/user-attachments/assets/7b774c4e-52b6-4c5b-a958-8e17ec2ec32d" />
-
-
----
-
-## 💻 Desarrollo Web 
-
-### "Veon" - *2026*
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-
-* **Empresa:** Neutronic Solutions
-* **Tecnologías:** React, HTML5, CSS3, JavaScript
-* **Descripción:** Aplicación web Full Stack para comercio electrónico enfocada en la modularidad de componentes y diseño responsivo.
-* **Mecánica Destacada:** Implementación de persistencia de datos local para mantener las configuraciones de usuario (como el cambio de idioma y modo claro/oscuro).
-<img width="310" height="170" alt="Video prueba Veon" src="https://github.com/user-attachments/assets/c654cd62-674b-4950-9453-437ef6b17626" />
-<img width="310" height="170" alt="Captura de pantalla 2026-05-22 204954" src="https://github.com/user-attachments/assets/8dc1bae1-8f59-405f-81fe-792812c2759b" />
-<img width="310" height="170" alt="Captura de pantalla 2026-05-22 205915" src="https://github.com/user-attachments/assets/57b19f1f-f21b-45ba-b55c-53aefc17ff38" />
-<img width="310" height="170" alt="Captura de pantalla 2026-05-22 210005" src="https://github.com/user-attachments/assets/e81ca3a6-0b15-494c-a5dc-78b277b37743" />
-
-
 
 ---
 
