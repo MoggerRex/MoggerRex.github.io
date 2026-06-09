@@ -28,6 +28,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 <img width="310" height="170" alt="VideoZonasMapa" src="https://github.com/user-attachments/assets/e385ff7d-110a-4c3a-b495-dd339a46bfc3" />
 
 ### PinPonPumYume
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 Whac-a-Mole Interactivo (Hardware + Software)
 * **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Proyecto interactivo que une el mundo físico con el digital. Utiliza un microcontrolador para procesar señales de botones y sensores físicos, transmitiendo los datos en tiempo real al bucle lógico del juego en Unity.
