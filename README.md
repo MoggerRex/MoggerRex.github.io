@@ -58,6 +58,9 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 * **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Juego en 3D con mecanica por turnos, continuando la historia de su precuela "Azucaris" doonde tendras que entrar a la mansión de Cucarachin y detenerlo junto con sus secuaces ratas.
 * **Mecánica Destacada:** Mundo en 3D con mecanica de combate por turnos y uso de objetos y estados.
+<img width="310" height="170" alt="trailer" src="https://github.com/user-attachments/assets/cbcb8d60-6ba1-4777-b24b-10c6eb22dc0f" />
+<img width="310" height="170" alt="Cucarachin gif" src="https://github.com/user-attachments/assets/cc562af0-71b4-45a3-bdd1-b4b59ddb4e9f" />
+
 
 ### "Azucaris" - *2025*
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
