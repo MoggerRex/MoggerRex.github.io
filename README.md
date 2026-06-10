@@ -57,7 +57,6 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
 * **Motor gráfico:** Unity (3D)
 * **Lenguaje utilizado:** C#
-* **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Juego en 3D con mecanica por turnos, continuando la historia de su precuela "Azucaris" doonde tendras que entrar a la mansión de Cucarachin y detenerlo junto con sus secuaces ratas.
 * **Mecánica Destacada:** Mundo en 3D con mecanica de combate por turnos y uso de objetos y estados.
 <img width="310" height="170" alt="trailer" src="https://github.com/user-attachments/assets/cbcb8d60-6ba1-4777-b24b-10c6eb22dc0f" />
@@ -68,7 +67,6 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás una selección de mis
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
 * **Motor gráfico:** Unity (2D)
 * **Lenguaje utilizado:** C#
-* **Tecnologías:** Arduino, Unity, Sensores IR
 * **Descripción:** Plataformero con mecanicas de ritmo, ambientado en un mundo magico de azucar con un protagonista armadillo llamado Armandillo, quien necesita recuperar su valioso cereal de el villano Cucarachin.
 * **Mecánica Destacada:** Combinación de plataformero clasico con mecanica de ritmo.
 <img width="310" height="170" alt="Plataformeo Gif" src="https://github.com/user-attachments/assets/3b781a86-f5eb-4a32-8ca9-2caa42df8a72" />
